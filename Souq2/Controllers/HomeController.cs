@@ -11,6 +11,7 @@ namespace Souq2.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            // Hi
             return View();
         }
     }
